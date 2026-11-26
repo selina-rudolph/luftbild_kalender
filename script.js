@@ -30,7 +30,7 @@ const riddles = [
 ];
 
 // Zum Testen auf true setzen, damit alle Türchen sofort freigeschaltet sind.
-const TEST_MODE = true;
+const TEST_MODE = false;
 const STORAGE_KEY = "foto-adventskalender-solved-v1";
 
 const calendar = document.getElementById("calendar");
